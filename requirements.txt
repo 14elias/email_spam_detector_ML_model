@@ -15,3 +15,5 @@ streamlit==1.35.0
 # Development and Utilities
 ipykernel
 Werkzeug==3.0.3
+matplotlib
+seaborn
